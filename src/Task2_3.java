@@ -1,6 +1,6 @@
 public class Task2_3 {
     public static void main(String[] args) {
-        int people = 100;
+        int people = 50;
         int counts = 102;
         int seats = 60;
         int other = counts - seats;
